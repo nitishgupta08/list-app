@@ -1,2 +1,2 @@
 # list-app
-ListApp made with Typescript
+ListApp made with Typescript and TailwindCSS
